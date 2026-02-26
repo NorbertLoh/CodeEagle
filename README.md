@@ -8,7 +8,6 @@ Members:
 - Foo Tzie Huang
 
 ## Table of Contents
-- [Code Eagle](#Code Eagle)
 - [Table of Contents](#table-of-contents)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
