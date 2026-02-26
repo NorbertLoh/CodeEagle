@@ -1,6 +1,6 @@
-## G37 PeerPrep
+## Code Eagle
 
-Group Members:
+Members:
 - Lim Kok Liang
 - Billy Ho Cheng En
 - Loh Ze Qing Norbert
@@ -8,7 +8,7 @@ Group Members:
 - Foo Tzie Huang
 
 ## Table of Contents
-- [G37 PeerPrep](#g37-peerprep)
+- [Code Eagle](#Code Eagle)
 - [Table of Contents](#table-of-contents)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
@@ -40,7 +40,7 @@ Group Members:
    ```
 
 ## Usage
-1. Go to `http://localhost:5173` to access the PeerPrep frontend.
+1. Go to `http://localhost:5173` to access the Code Eagle frontend.
 2. Register a new account or login with Google Sign-In.
 3. Explore features like starting collaboration sessions, practicing coding questions, and viewing session history.
 
@@ -48,7 +48,7 @@ Group Members:
 ```python
 cs3219-ay2526s1-project-g37/
 ├── frontend/                  # Frontend React application
-│   └── peerprep/              # Main PeerPrep application
+│   └── peerprep/              # Main Code Eagle application
 │       └──...                 # React components, pages, assets, etc.
 │
 ├── services/
