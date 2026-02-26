@@ -31,7 +31,7 @@ Members:
 ## Getting Started (dev)
 1. Clone the repository into your local machine:
    ```bash
-   git clone https://github.com/CS3219-AY2526Sem1/cs3219-ay2526s1-project-g37.git
+   git clone https://github.com/NorbertLoh/CodeEagle.git
 2. Fill in the env variables as per the `.env.dev.example` file in root directory, save as `.env`
 3. Run with command from directory root:
    ```bash
@@ -45,7 +45,7 @@ Members:
 
 ## Folder Structure
 ```python
-cs3219-ay2526s1-project-g37/
+CodeEagle/
 ├── frontend/                  # Frontend React application
 │   └── peerprep/              # Main Code Eagle application
 │       └──...                 # React components, pages, assets, etc.
